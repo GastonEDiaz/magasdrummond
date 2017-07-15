@@ -1,0 +1,1 @@
+!function(){$("#carousel123").carousel({interval:0}),$("#carouselABC").carousel({interval:0})}(),function(){$(".carousel-showmanymoveone .item").each(function(){for(var e=$(this),n=1;n<4;n++)e=e.next(),e.length||(e=$(this).siblings(":first")),e.children(":first-child").clone().addClass("cloneditem-"+n).appendTo($(this))})}();
