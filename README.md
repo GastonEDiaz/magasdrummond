@@ -1,2 +1,2 @@
-# magasdrumond
-Web Site of Magas de Drumond in AngularJs
+# magasdrummond
+Web Site of Magas de Drummond in AngularJs
